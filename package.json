@@ -29,7 +29,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bintang73/botst4rz.git"
+    "url": "git+https://github.com/Sho-ryuu/botwadika"
+
 /
 botwadika
 1
@@ -42,7 +43,7 @@ botwadika
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bintang73/botst4rz.git/issues"
+    "url": "https://github.com/Sho-ryuu/botwadika/issues"
   },
-  "homepage": "https://github.com/Bintang73/botst4rz.git#readme"
+  "homepage": "https://github.com/Sho-ryuu/botwadika#readme"
 }
